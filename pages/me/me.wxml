@@ -1,0 +1,6 @@
+<!--pages/me/me.wxml-->
+<view class='me'>
+  <text>我的</text>
+  <text>我的</text>
+  <text>我的</text>
+</view>
